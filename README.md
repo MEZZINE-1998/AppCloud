@@ -1,6 +1,7 @@
-# AppCloud
+# Machine Learning App with Kubernetes and Docker
 
-- 1- Create clusters and deploy a machine learning pipeline using PyCaret
-- 2 - Front-end (designed using HTML)
-- 3 - Back-end (developed using Flask)
-- 4 - Deploy a web app on Google Kubernetes Engine.
+Create clusters and deploy a machine learning pipeline using PyCaret, Flask, Docker and Kubernetes
+
+- 1 - Front-end (designed using HTML)
+- 2 - Back-end (developed using Flask)
+- 3 - Deploy a web app on Google Kubernetes Engine.
