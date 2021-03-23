@@ -4,4 +4,4 @@ Create clusters and deploy a machine learning pipeline using PyCaret, Flask, Doc
 
 - 1 - Front-end (designed using HTML)
 - 2 - Back-end (developed using Flask)
-- 3 - Deploy a web app on Google Kubernetes Engine.
+- 3 - Deploy the web app on Google Kubernetes Engine.
