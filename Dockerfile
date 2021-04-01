@@ -12,7 +12,7 @@ ADD . /app
 RUN pip install -r requirements.txt
 
 # Expose port 
-ENV PORT 8080
+ENV PORT 80
 
 # Run the application:
 CMD ["python", "app.py"]
